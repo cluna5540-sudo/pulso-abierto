@@ -57,3 +57,31 @@ npm run test
 ```
 
 **Resultado:** 2 pruebas aprobadas.
+## Verificación final
+
+**Fecha de verificación:** 25/11/2026
+
+### Pruebas realizadas
+
+- [x] Cotizaciones de Bitcoin, Ethereum y Solana.
+- [x] Navegación entre listado y detalle.
+- [x] Favoritos sincronizados entre las vistas.
+- [x] Persistencia de favoritos después de recargar la página.
+- [x] Validación del formulario de búsqueda.
+- [x] Diseño adaptable a dispositivos móviles y escritorio.
+- [x] Pruebas automatizadas ejecutadas correctamente.
+- [x] Vista previa de producción verificada.
+- [x] Aplicación desplegada y comprobada en Vercel.
+
+### Verificación técnica
+
+- **Build:** ejecutado correctamente con `npm run build`.
+- **Tests:** ejecutados correctamente con `npm run test`.
+- **Lint:** ejecutado; finalizó con 1 advertencia y 0 errores.
+- **Preview:** ejecutado y comprobado.
+- **Deploy:** completado correctamente en Vercel.
+
+### Enlaces del proyecto
+
+- **Repositorio GitHub:** https://github.com/cluna5540-sudo/pulso-abierto
+- **Aplicación publicada:** https://pulso-abierto-snowy.vercel.app
